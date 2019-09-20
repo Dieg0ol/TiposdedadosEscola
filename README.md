@@ -1,0 +1,2 @@
+# TiposdedadosEscola
+item da escola
